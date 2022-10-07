@@ -1,2 +1,1 @@
 # senior-js
-senior
